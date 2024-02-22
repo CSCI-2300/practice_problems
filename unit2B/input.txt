@@ -1,0 +1,4 @@
+Java for Beginners,2023,book,Kate,Holdener,myself,123-534-4545
+Mercy Watson,2012,book,Kate,DiCamillo,Candlewick,978-0763645045
+Office Space,1999,movie,Mike,Judge,R,
+Mike,2019,book,Andrew,Norriss,David Fickling Books,978-1338285369
