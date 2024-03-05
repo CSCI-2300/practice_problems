@@ -19,7 +19,7 @@ The toString method of the Catalog class prints the collection in a short format
 
 We want to support a flexible printing format for the catalog. Redesign the existing code using the strategy design pattern such that the printing format could specified dynamically. The UML class diagram of the redesign is shown below.
 
-[UML class diagram](Design.png)
+![UML class diagram](Design.png)
 
 There are two formats mentioned in the diagram. The short format is the current format Catalog uses. In the long format, we want to she the library item's id and the all the details of the Book (you can get all of book's details by calling the toString() method on a Book object).
 
