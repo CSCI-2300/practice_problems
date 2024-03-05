@@ -24,10 +24,15 @@ We want to support a flexible printing format for the catalog. Redesign the exis
 There are two formats mentioned in the diagram. The short format is the current format Catalog uses. In the long format, we want to she the library item's id and the all the details of the Book (you can get all of book's details by calling the toString() method on a Book object).
 
 Modify the Driver such that it accepts an additional command line argument specifying the book format: S - short format, L - long format. Your new driver will be run as:
+
+```
 java Driver S
+```
 
 or 
 
+```
 java Driver L
+```
 
 If neither S nor L is passed to the Driver, the driver should print out the usage instructions and terminate immediatelly. 
